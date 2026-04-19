@@ -2,6 +2,7 @@
 **/agedetectiontrain/
 **/agedetectiontest/
 **/age_detection_test/
+**/cifar10/
 
 # Output files
 **/out.csv
